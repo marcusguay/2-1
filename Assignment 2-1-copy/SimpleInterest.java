@@ -11,8 +11,11 @@ class SimpleInterest {
        double a=0;
        double n=0;
        Scanner sc = new Scanner(System.in);
+        System.out.println("principle");
        p= sc.nextDouble();
-       r=sc.nextDouble():
+        System.out.println("rate");
+       r=sc.nextDouble();
+        System.out.println("years");
        n=sc.nextDouble();
        
        a=p*Math.pow(1+r,n);

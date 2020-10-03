@@ -9,6 +9,8 @@ class AreaToRadius {
       double area;
         Scanner sc = new Scanner(System.in);
       
+         System.out.println("area");
+        
         area=sc.nextDouble();
         
        r=Math.sqrt(area/Math.PI);

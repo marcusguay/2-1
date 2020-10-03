@@ -12,13 +12,15 @@ class DistanceFormula {
       
         
         
+       
         
+         System.out.println("x1");
         x1=sc.nextInt();
-         
+          System.out.println("y1");
         y1=sc.nextInt();
-         
+          System.out.println("x2");
          x2=sc.nextInt();
-        
+         System.out.println("y2");
         y2=sc.nextInt();
         
        
@@ -26,7 +28,7 @@ class DistanceFormula {
        
   
       
-        
+         System.out.println("answer");
        System.out.println(r);
        
     }

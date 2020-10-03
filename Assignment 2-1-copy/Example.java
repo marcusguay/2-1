@@ -4,10 +4,10 @@ class Example {
 
     public static void main (String[] args) {
        
-      int x;
+      double x;
         Scanner sc = new Scanner(System.in);
         //... other variables go here
-        x= (int) (4.5 / 0.9);
+        x=  ((double)1 / 3);
         //2. get user input
         
         //use sc.nextDouble(); to get a decimal or an int value from terminal.
